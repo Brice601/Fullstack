@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4063],{21290:(_,n,u)=>{"use strict";u.r(n),u.d(n,{__N_SSP:()=>e,default:()=>r});var e=!0;function r(){return null}},93649:(_,n,u)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/profile",function(){return u(21290)}])}},_=>{_.O(0,[6593,636,8792],()=>_(_.s=93649)),_N_E=_.O()}]);
